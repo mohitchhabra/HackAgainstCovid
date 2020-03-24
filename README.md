@@ -1,4 +1,4 @@
 # dotnetconfblr
-Codebase of the dotnet Conf Bengaluru event website
+Codebase of the HackAgainstCovid Hackathon website
 
-headover to https://bdotnet.github.io/dotnetconfblr/ to visit the live site!
+headover to http://hackagainstcovid.com/ to visit the live site!
